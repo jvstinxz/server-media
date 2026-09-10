@@ -31,6 +31,10 @@
         "name": "CityBuild-3",
         "color": "#E8B50F",
         "command": "/servers cb3"
+      },
+       "creative": {
+        "name": "Creative",
+        "color": "#54FFFF",
       }
     },
     "discord": {
