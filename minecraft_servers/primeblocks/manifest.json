@@ -4,7 +4,7 @@
     "direct_ip": "primeblocks.net",
     "server_wildcards": [
     "%.besterserverderwelt.net",
-    "%.besterserverderwelt.de",
+    "%.besterserverderwelt.de"
     ],
     "supported_languages": [
        "de"
@@ -34,7 +34,7 @@
       },
        "creative": {
         "name": "Creative",
-        "color": "#54FFFF",
+        "color": "#54FFFF"
       }
     },
     "discord": {
@@ -47,4 +47,4 @@
       "country_code": "DE"
     },
     "yt_trailer": "eMDDvSUXZY8"
-  }
+}
